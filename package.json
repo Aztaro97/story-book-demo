@@ -26,6 +26,7 @@
     "@storybook/testing-library": "^0.0.9",
     "@vitejs/plugin-react": "^1.0.7",
     "babel-loader": "^8.2.3",
+    "chromatic": "^6.5.3",
     "vite": "^2.8.0"
   }
 }
